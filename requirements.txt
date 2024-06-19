@@ -1,0 +1,4 @@
+Flask==2.0.1
+huggingface_hub==0.0.12
+PyGithub==1.54.1
+torch==1.9.0
